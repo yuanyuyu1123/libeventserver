@@ -1,0 +1,4 @@
+/usr/local/cfile/socket/cmake-build-debug/CMakeFiles/libevent_server.dir
+/usr/local/cfile/socket/cmake-build-debug/CMakeFiles/libevent_client.dir
+/usr/local/cfile/socket/cmake-build-debug/CMakeFiles/edit_cache.dir
+/usr/local/cfile/socket/cmake-build-debug/CMakeFiles/rebuild_cache.dir

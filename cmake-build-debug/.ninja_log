@@ -1,0 +1,15 @@
+# ninja log v5
+0	54	1653548547586030678	CMakeFiles/socket.dir/server/server.c.o	38faa41453b95e9d
+1	17	1653548547550029169	CMakeFiles/socket.dir/clent/clent.c.o	75c91421087ac4b9
+0	53	1653548751110556567	CMakeFiles/libevent_server.dir/server/server.c.o	1d00e988603926b9
+1	56	1653548751110556567	CMakeFiles/libevent_client.dir/clent/clent.c.o	563d532fd5117186
+53	77	1653548751130557405	libevent_server	1d6fbcfcc0a85561
+56	77	1653548751130557405	libevent_client	15eaa7b03f712a3c
+0	511	1653548795932434049	CMakeFiles/libevent_server.dir/server/server.c.o	1d00e988603926b9
+511	750	1653548796172444105	libevent_server	1d6fbcfcc0a85561
+0	165	1655751008071456154	CMakeFiles/libevent_server.dir/server/server.c.o	1d00e988603926b9
+165	199	1655751008107456506	libevent_server	1d6fbcfcc0a85561
+0	69	1655751020827581223	CMakeFiles/libevent_client.dir/clent/clent.c.o	563d532fd5117186
+69	114	1655751020871581656	libevent_client	15eaa7b03f712a3c
+1	1110	1655826752009866471	CMakeFiles/libevent_server.dir/server/server.c.o	1d00e988603926b9
+1110	1555	1655826752453869277	libevent_server	1d6fbcfcc0a85561
